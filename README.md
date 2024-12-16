@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pulkit Saini
-- 👀 I’m interested in Sleepimg
+- 👀 I’m interested in Sleeping
 - 🌱 I’m currently working at Abhiwan technology
 - 📫 How to reach me https://github.com/pulkit-py
 
